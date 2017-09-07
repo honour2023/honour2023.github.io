@@ -1,0 +1,28 @@
+#wrap nav {
+    background-color: #add8e6;
+    height: 30px ;
+    padding: 8px 10px;
+}
+/*}*/
+/*#hon{*/
+    /*width:100%;*/
+    /*margin: 0 auto;*/
+    /*background-color: blue;*/
+
+/*}*/
+li {
+    float: left;
+    border-right: 2px solid #bbb;
+    padding-right:10px;
+}
+ul {
+    list-style-type: none;
+    /*margin: 0;*/
+    /*padding: 1%;*/
+    background-color: lightblue;
+    display: block;
+    color: white;
+    text-align: center;
+    /*padding: 14px 16px;*/
+    text-decoration: none;
+}

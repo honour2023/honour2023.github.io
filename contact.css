@@ -1,0 +1,21 @@
+.menu ul{
+    list-style-type: none;
+    /*margin: 0;*/
+    /*padding: 1%;*/
+    background-color: lightblue;
+    display: block;
+    color: white;
+    /*padding: 14px 16px;*/
+    text-decoration: none;
+}
+
+.social{
+    list-style-type: none;
+    /*margin: 0;*/
+    /*padding: 1%;*/
+    background-color: black;
+    display: block;
+    color: white;
+    /*padding: 14px 16px;*/
+    text-decoration: none;
+}
