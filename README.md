@@ -8,17 +8,11 @@ I am an Africa man that love his people. I love Africa so much that i will do an
 
 Country | Numbers
 -------------|-------------
-
 Nigeria | 19
--------|------
 Ivory Coast | 8
----------|--------
 Kenya | 13
--------|--------
 South Africa | 4
---------|--------------
 Ghana | 14
---------|---------
 
 my surge website is https://ibrahim.surge.sh
 
