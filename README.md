@@ -16,9 +16,9 @@ my surge website is https://ibrahim.surge.sh
 
 
 
-![My Picture](~/Desktop/ibrahim.jpg)
-Format: ![Alt Text](url)
+![My Picture]( Desktop/ibrahim.jpg)
 
-:+2:
+
+:+1:
 
 
