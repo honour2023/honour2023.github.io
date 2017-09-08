@@ -19,7 +19,7 @@ my surge website is https://ibrahim.surge.sh
 
 
 
-![My Picture]( honour2023.github.io/ibrahim 1.jpg)
+![My Picture](https://honour2023.github.io/ibrahim 1.jpg)
 :+1:
 
 
