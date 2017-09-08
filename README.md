@@ -5,8 +5,10 @@ I am an Africa man that love his people. I love Africa so much that i will do an
 * Waakye
 * Rice
 * Spaghetti
+
 First Header | Second Header
 .............|..............
+
 Countries | EITs  numbers
 Nigeria | 19
 Ivory Coast | 8
@@ -17,9 +19,7 @@ my surge website is https://ibrahim.surge.sh
 
 
 
-![My Picture]( Desktop/ibrahim.jpg)
-
-
+![My Picture]( honour2023.github.io/ibrahim 1.jpg)
 :+1:
 
 
