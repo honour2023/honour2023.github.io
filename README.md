@@ -5,7 +5,8 @@ I am an Africa man that love his people. I love Africa so much that i will do an
 * Waakye
 * Rice
 * Spaghetti
-
+First Header | Second Header
+.............|..............
 Countries | EITs  numbers
 Nigeria | 19
 Ivory Coast | 8
