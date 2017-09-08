@@ -10,10 +10,15 @@ Country | Numbers
 -------------|-------------
 
 Nigeria | 19
+-------|------
 Ivory Coast | 8
+---------|--------
 Kenya | 13
+-------|--------
 South Africa | 4
+--------|--------------
 Ghana | 14
+--------|---------
 
 my surge website is https://ibrahim.surge.sh
 
